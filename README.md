@@ -1,6 +1,9 @@
 🔎 Introducción
+
 📌 Nombre del Proyecto: AI Startup Generator
-📍 Problema a Abordar
+
+📍 Problema a Abordar:
+
 Muchas personas tienen interés en emprender pero enfrentan dificultades en:
 
 Ideación: Encontrar una idea de negocio innovadora.
