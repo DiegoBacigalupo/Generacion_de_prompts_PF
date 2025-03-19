@@ -6,8 +6,8 @@ LOGO representativo de la startup:
 ![ ](https://github.com/DiegoBacigalupo/Generacion_de_prompts_PF/blob/main/img-vH5jctKmW6tR2bW2zg0dAJbS.png)
 
 
-# 💡 Idea de Startup: 
-# __Idea de Startup: "Threadly"__
+# 💡 Idea de Startup: "Threadly"
+
 
 __Problema que resuelve:__
 El creciente interés por la moda y la individualidad choca con el impacto medioambiental que la industria de la ropa tiene debido a la producción masiva y desechos de fibras no reciclables. Además, el deseo de exclusividad es difícil de satisfacer con las cadenas de moda convencionales y el "Fast Fashion".
