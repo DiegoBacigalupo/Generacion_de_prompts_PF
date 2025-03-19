@@ -1,9 +1,9 @@
 
-__📌 Nombre del Proyecto: AI Startup Generator__
+# __📌 Nombre del Proyecto: AI Startup Generator__
 
 
 
-#__📍 Problema a Abordar:__
+__📍 Problema a Abordar:__
 
 Muchas personas tienen interés en emprender pero enfrentan dificultades en:
 
@@ -17,7 +17,7 @@ Este problema es común en startups, incubadoras y emprendedores independientes.
 
 
 
-#__💡 Propuesta de Solución__
+__💡 Propuesta de Solución__
 
 Usaremos IA generativa para automatizar el proceso de creación de startups:
 
