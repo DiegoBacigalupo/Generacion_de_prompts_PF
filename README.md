@@ -2,11 +2,6 @@
 __📌 Nombre del Proyecto: AI Startup Generator__
 
 
-#__Resumen__
-
-Este proyecto tiene como objetivo desarrollar un sistema que genere automáticamente ideas innovadoras para startups, diseñe un logo acorde a su identidad y cree diapositivas para presentaciones a futuros inversionistas. Utilizaremos la API de OpenAI GPT-4 para generar descripciones detalladas de la startup, incluyendo su misión, visión, valores y segmento de clientes. Luego, usaremos la API de DALL-E para convertir estas descripciones en un logo y diapositivas visualmente representativas.
-
-
 
 #__📍 Problema a Abordar:__
 
