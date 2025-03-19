@@ -36,7 +36,7 @@ Trabajo Final: Generación Automática de Ideas, Logos y Diapositivas para Start
 
 
 
-<h2>__Índice__<h2>
+# __Índice__
 
 Introducción
 
@@ -55,7 +55,7 @@ Conclusiones
 Referencias
 
 
-#__1. Introducción__
+# __1. Introducción__
 
 En el mundo del emprendimiento, la identidad visual y el concepto de una startup son fundamentales para su éxito. Sin embargo, muchas startups carecen de los recursos para desarrollar un branding sólido desde el inicio. Este proyecto busca automatizar la generación de ideas, logos y diapositivas mediante IA, brindando a los emprendedores un punto de partida creativo y personalizado.
 
