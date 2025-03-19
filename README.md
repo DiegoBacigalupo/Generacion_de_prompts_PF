@@ -36,7 +36,7 @@ Trabajo Final: Generación Automática de Ideas, Logos y Diapositivas para Start
 
 
 
-##__Índice__
+<h2>__Índice__<h2>
 
 Introducción
 
