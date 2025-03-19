@@ -1,9 +1,9 @@
 __Logo representativo de la startup:__
 
-![ ](https://github.com/DiegoBacigalupo/Generacion_de_prompts_PF/blob/main/img-f85b7AhKXyDWEUBKinYzBAmQ.png)
+![ ](https://github.com/DiegoBacigalupo/Generacion_de_prompts_PF/blob/main/dos.png)
 
  __Diapositiva creada para presentacion a futuros inversores de la startup:__ 
-![ ](https://github.com/DiegoBacigalupo/Generacion_de_prompts_PF/blob/main/img-vH5jctKmW6tR2bW2zg0dAJbS.png)
+![ ](https://github.com/DiegoBacigalupo/Generacion_de_prompts_PF/blob/main/uno.png)
 
 
 # 💡 Idea de Startup: "Threadly"
