@@ -3,7 +3,7 @@
 ![ ](https://github.com/DiegoBacigalupo/Generacion_de_prompts_PF/blob/main/img-f85b7AhKXyDWEUBKinYzBAmQ.png)
 
 ***  IMAGEN DIAPOSITIVA creada para la presentacion de la startup:  *** 
-! [](https://github.com/DiegoBacigalupo/Generacion_de_prompts_PF/blob/main/img-vH5jctKmW6tR2bW2zg0dAJbS.png)
+![ ](https://github.com/DiegoBacigalupo/Generacion_de_prompts_PF/blob/main/img-vH5jctKmW6tR2bW2zg0dAJbS.png)
 
 
 💡 Idea de Startup: 
