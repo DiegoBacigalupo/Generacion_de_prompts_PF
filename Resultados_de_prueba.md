@@ -1,8 +1,8 @@
-***  IMAGEN LOGO representativo de la startup:   ***
+LOGO representativo de la startup:
 
 ![ ](https://github.com/DiegoBacigalupo/Generacion_de_prompts_PF/blob/main/img-f85b7AhKXyDWEUBKinYzBAmQ.png)
 
-***  IMAGEN DIAPOSITIVA creada para la presentacion de la startup:  *** 
+ DIAPOSITIVA creada para presentacion a futuros inversores de la startup: 
 ![ ](https://github.com/DiegoBacigalupo/Generacion_de_prompts_PF/blob/main/img-vH5jctKmW6tR2bW2zg0dAJbS.png)
 
 
