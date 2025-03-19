@@ -1,4 +1,4 @@
-![Texto alternativo](https://github.com/DiegoBacigalupo/Generacion_de_prompts_PF/blob/main/img-f85b7AhKXyDWEUBKinYzBAmQ.png)
+![Imagen de logo](https://github.com/DiegoBacigalupo/Generacion_de_prompts_PF/blob/main/img-f85b7AhKXyDWEUBKinYzBAmQ.png)
 
 ***  IMAGEN DIAPOSITIVA creada para la presentacion de la startup:  *** 
 https://oaidalleapiprodscus.blob.core.windows.net/private/org-Htimm7aBgJxTQh9z0rMheZKu/user-MBXiz69skUO8KC3Me9soSpRb/img-vH5jctKmW6tR2bW2zg0dAJbS.png?st=2025-03-19T12%3A32%3A52Z&se=2025-03-19T14%3A32%3A52Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-03-19T09%3A26%3A31Z&ske=2025-03-20T09%3A26%3A31Z&sks=b&skv=2024-08-04&sig=0rXIm6EEtdMFQ6rpeKoNv2QpTEH2XXJFbj/IFnBDLDw%3D
