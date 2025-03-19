@@ -60,7 +60,7 @@ Referencias
 En el mundo del emprendimiento, la identidad visual y el concepto de una startup son fundamentales para su éxito. Sin embargo, muchas startups carecen de los recursos para desarrollar un branding sólido desde el inicio. Este proyecto busca automatizar la generación de ideas, logos y diapositivas mediante IA, brindando a los emprendedores un punto de partida creativo y personalizado.
 
 
-#__2. Objetivos__
+# __2. Objetivos__
 
 Generar automáticamente ideas innovadoras de startups en diferentes industrias.
 
@@ -73,7 +73,7 @@ Convertir la descripción textual en una imagen de logo utilizando DALL-E.
 Diseñar diapositivas visualmente atractivas para presentaciones a inversores.
 
 
-#__3. Metodología__
+# __3. Metodología__
 
 Generación de Ideas:
 
@@ -94,7 +94,7 @@ Generación de la Imagen del Logo y Diapositivas:
 Se utiliza DALL-E para transformar la descripción en un logo visual y diapositivas atractivas.
 
 
-#__4. Herramientas y Tecnologías__
+# __4. Herramientas y Tecnologías__
 
 Python
 
@@ -105,7 +105,7 @@ OpenAI DALL-E API (para la generación de imágenes de logos y diapositivas)
 Jupyter Notebook (para la implementación y prueba del sistema)
 
 
-#__5. Implementación__
+# __5. Implementación__
 
 El sistema se implementa mediante un script en Python que interactúa con las APIs de OpenAI para generar contenido dinámico y personalizado para startups. El usuario ingresa los datos de la startup y el sistema devuelve:
 
@@ -118,17 +118,17 @@ Un logo representativo de la startup.
 Una diapositiva visualmente atractiva para acompañar presentaciones a inversionistas.
 
 
-#__6. Resultados__
+# __6. Resultados__
 
 El sistema permite generar automáticamente contenido clave para startups, reduciendo tiempo y costos en la conceptualización y diseño de identidad visual.
 
 
-#__7. Conclusiones__
+# __7. Conclusiones__
 
 Este proyecto demuestra el potencial del uso de la inteligencia artificial en el emprendimiento, facilitando la creación de ideas, logos y material visual atractivo para startups emergentes.
 
 
-#__8. Referencias__
+# __8. Referencias__
 
 Documentación oficial de OpenAI GPT-4 y DALL-E.
 
