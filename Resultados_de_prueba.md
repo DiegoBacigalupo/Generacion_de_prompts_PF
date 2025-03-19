@@ -27,6 +27,8 @@ El público objetivo son los millennials y la Gen Z que son conscientes del medi
 Para apoyar el lanzamiento y crecimiento de la startup, se puede considerar la colaboración con influencers de moda sostenible y la realización de campañas de concienciación para educar a los consumidores sobre el valor y el impacto de elegir moda sostenible.
 
 
+
+
 📢 Pitch Generado: 
 Imagina un mundo donde la moda y la sostenibilidad coexisten, donde cada prenda que vistes es tanto un reflejo de tu estilo único como de tu compromiso con el planeta. Bienvenido a Threadly, la revolucionaria startup que está transformando la industria de la moda.
 
