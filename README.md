@@ -38,10 +38,6 @@ Trabajo Final: Generación Automática de Ideas, Logos y Diapositivas para Start
 
 ##__Índice__
 
-problema a abordar
-
-propuesta de solución
-
 Introducción
 
 Objetivos
