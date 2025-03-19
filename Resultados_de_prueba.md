@@ -6,22 +6,22 @@ LOGO representativo de la startup:
 ![ ](https://github.com/DiegoBacigalupo/Generacion_de_prompts_PF/blob/main/img-vH5jctKmW6tR2bW2zg0dAJbS.png)
 
 
-💡 Idea de Startup: 
-Idea de Startup: "Threadly"
+# 💡 Idea de Startup: 
+# __Idea de Startup: "Threadly"__
 
-Problema que resuelve:
+__Problema que resuelve:__
 El creciente interés por la moda y la individualidad choca con el impacto medioambiental que la industria de la ropa tiene debido a la producción masiva y desechos de fibras no reciclables. Además, el deseo de exclusividad es difícil de satisfacer con las cadenas de moda convencionales y el "Fast Fashion".
 
 
-Solución propuesta:
+__Solución propuesta:__
 "Threadly" es una plataforma de moda en línea que crea ropa minimalista y exclusiva realizada a través de procesos sostenibles. Utilizando la tecnología de Inteligencia Artificial (IA), "Threadly" será capaz de personalizar prendas de vestir para individuos con base en sus preferencias y medidas. Adicionalmente, solo producirá la ropa una vez que se haya realizado un pedido para evitar el desperdicio y mantendrá su compromiso con la sostenibilidad utilizando solo materiales reciclables y ecológicos.
 
 
-Modelo de Negocio:
+__Modelo de Negocio:__
 La principal fuente de ingresos será la venta de ropa a través de la plataforma en línea. También habrá una suscripción premium que ofrecerá beneficios como el envío gratuito, descuentos regulares y un servicio de personalización de ropa más avanzado. Además, el modelo de producción bajo demanda mantendrá bajos los costos de inventario.
 
 
-Público Objetivo:
+__Público Objetivo:__
 El público objetivo son los millennials y la Gen Z que son conscientes del medio ambiente, los amantes de la moda y la exclusividad que, además, buscan minimizar su impacto en el planeta. Se centrará principalmente en personas de nivel socioeconómico medio a alto, debido al precio premium de la ropa sostenible y exclusiva.
 
 Para apoyar el lanzamiento y crecimiento de la startup, se puede considerar la colaboración con influencers de moda sostenible y la realización de campañas de concienciación para educar a los consumidores sobre el valor y el impacto de elegir moda sostenible.
@@ -29,7 +29,7 @@ Para apoyar el lanzamiento y crecimiento de la startup, se puede considerar la c
 
 
 
-📢 Pitch Generado: 
+# 📢 Pitch Generado: 
 Imagina un mundo donde la moda y la sostenibilidad coexisten, donde cada prenda que vistes es tanto un reflejo de tu estilo único como de tu compromiso con el planeta. Bienvenido a Threadly, la revolucionaria startup que está transformando la industria de la moda.
 
 Threadly es algo más que una simple tienda en línea de ropa, es un agente de cambio, enfrentando uno de los mayores desafíos de la industria de la moda: la producción masiva y los desechos de fibras no reciclables. Cada pieza de ropa de Threadly está diseñada con minimalismo y exclusividad, utilizando solo materiales reciclables y ecológicos. Y gracias a nuestra avanzada tecnología de IA, cada prenda se puede personalizar de acuerdo con las preferencias y medidas del individuo.
